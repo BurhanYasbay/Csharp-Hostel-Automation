@@ -1,0 +1,94 @@
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.exe
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.deps.json
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.runtimeconfig.json
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\ref\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.pdb
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.AssemblyReference.cache
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AdminGiris.resources
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.GenerateResource.cache
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AssemblyInfoInputs.cache
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AssemblyInfo.cs
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\ref\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.pdb
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.genruntimeconfig.cache
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Properties.Resources.resources
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon..resources
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.YeniMüsteri.resources
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AnaSayfa.resources
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Odalar.resources
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.CopyComplete
+C:\Users\brhnd\OneDrive\Masaüstü\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Musteriler.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.exe
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.deps.json
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.runtimeconfig.json
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\ref\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.pdb
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.AssemblyReference.cache
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon..resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AdminGiris.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AnaSayfa.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Musteriler.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Odalar.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Properties.Resources.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.YeniMüsteri.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.GenerateResource.cache
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AssemblyInfoInputs.cache
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AssemblyInfo.cs
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.CopyComplete
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\ref\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.pdb
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.genruntimeconfig.cache
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.GelirGider.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Stoklar.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.exe
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.deps.json
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.runtimeconfig.json
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\ref\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\pansiyon.pdb
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.AssemblyReference.cache
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon..resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AdminGiris.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AnaSayfa.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.GelirGider.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Musteriler.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Odalar.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Properties.Resources.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.Stoklar.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.YeniMüsteri.resources
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.GenerateResource.cache
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AssemblyInfoInputs.cache
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.AssemblyInfo.cs
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.csproj.CopyComplete
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\ref\pansiyon.dll
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.pdb
+C:\Users\brhnd\OneDrive\Masaüstü\Üniversite Dersleri\Üniversite 3.sınıf 1.dönem\pansiyon otomasyonu\pansiyon\pansiyon\obj\Debug\net6.0-windows\pansiyon.genruntimeconfig.cache
